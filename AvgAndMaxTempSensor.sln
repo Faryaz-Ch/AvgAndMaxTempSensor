@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvgAndMaxTempSensor", "AvgAndMaxTempSensor\AvgAndMaxTempSensor.csproj", "{9DC94C35-18E4-4D7C-9F80-BF17FC107FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC94C35-18E4-4D7C-9F80-BF17FC107FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC94C35-18E4-4D7C-9F80-BF17FC107FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC94C35-18E4-4D7C-9F80-BF17FC107FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC94C35-18E4-4D7C-9F80-BF17FC107FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D995F7C7-E860-4E24-BD18-32D252B31843}
+	EndGlobalSection
+EndGlobal
